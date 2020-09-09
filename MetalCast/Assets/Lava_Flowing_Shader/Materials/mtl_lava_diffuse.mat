@@ -11,7 +11,7 @@ Material:
   m_Shader: {fileID: 4800000, guid: 036402a4b0d5f4342bbf1b572714f64e, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
-  m_EnableInstancingVariants: 0
+  m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 2000
   stringTagMap: {}
@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Distort:
-        m_Texture: {fileID: 2800000, guid: 0ebfaeff4eb7328498165095f9cfc32f, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _LavaTex:
